@@ -8,3 +8,5 @@ def nova_funkcija():
     return "Nova funkcija"
 # lave ti si lud
     
+def nova_metoda(self):
+    return "Ovo je nova metoda"
