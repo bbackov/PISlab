@@ -6,5 +6,5 @@ if __name__ == "__main__":
 
 def nova_funkcija():
     return "Nova funkcija"
-
+# lave ti si lud
     
